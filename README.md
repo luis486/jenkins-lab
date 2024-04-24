@@ -34,7 +34,7 @@ No está de más destacar que es necesario que te crees un usuario admin
 ![alt text](evidences/log.png)
 
 5. Luego, para que el jenkins funcione normal, es necesario crear un API Token para el usuario loggeado, donde vamos al apartado de Administrar jenkins, usuario y tocas tu usuario (el logeado o al que necesites darle los permisos)
-API Token: **11f2f73c639cb905dd9bff836adce56177**
+
 
 ![alt text](evidences/apitoken.png)
 
